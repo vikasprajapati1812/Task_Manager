@@ -9,9 +9,9 @@ Deployed via Netlify — https://vikastaskmanagerapp.netlify.app/
 
 # Some Screenshots how it looks.
 ## Website View
-![alt text](screenshot1.jpeg)
+![alt text](public/screenshot1.jpeg)
 ## Mobile View
-![alt text](screenshot2.jpg)
+![alt text](public/screenshot2.jpg)
 
 # Tech Skills
 - React (using Create React App)
