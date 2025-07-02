@@ -6,13 +6,12 @@
 }
 h1{
   text-align: center;
-  
 }
 
 .add-task-form input,
 .add-task-form textarea {
   width: 100%;
-  padding: 0.5rem ;
+  padding: 0.3rem ;
   margin-bottom: 0.5rem;
 }
 
@@ -22,9 +21,6 @@ h1{
 }
 
 .task-item {
-  /* background: #2A7B9B; */
-/* background: linear-gradient(120deg, rgba(42, 123, 155, 1) 0%, rgba(153, 97, 208, 1) 21%, rgba(214, 83, 237, 1) 56%, rgba(108, 212, 151, 1) 89%); */
-  border: 1px solid black;
   padding: 1rem;
   margin-bottom: 0.5rem;
   border-radius: 5px;
@@ -41,7 +37,7 @@ h1{
   padding: .5rem 0;
   border-radius: .3rem;
   border: none;
-  width: 102%;
+  width: 100%;
 }
 
 .task-actions button {
@@ -71,7 +67,7 @@ h1{
 }
 #taskbutton2{
   color: white;
-   background-color: red;
+  background-color: red;
   padding: .5rem;
   border-radius: .3rem;
   border: none;
