@@ -5,7 +5,7 @@ A clean and simple task manager built with React. This app is all about helping 
 Task Management Application A responsive and user-friendly Task Management application built entirely with React. It allows users to add, delete, complete and filter tasks. All task data is saved locally using localStorage for persistence even after page refresh.
 
 # Live Demo
-Deployed via Netlify — https://vikastaskmanagerapp.netlify.app/
+Deployed via Netlify — https://vikas-tma.netlify.app/
 
 # Some Screenshots how it looks.
 ## Website View
